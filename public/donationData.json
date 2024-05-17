@@ -1,0 +1,122 @@
+[
+    {
+        "picture": "https://i.ibb.co/kHCLhyd/shallow-focus-shot-african-child-learning-school.jpg",
+        "title": "Support Children's Education",
+        "category": "Education",
+        "category_bg": "#FFD700",
+        "card_bg": "#FFF8DC",
+        "text": "#B8860B",
+        "description": "Donate to provide books and school supplies to children in need.",
+        "price": "$50"
+    },
+    {
+        "picture": "https://i.ibb.co/2tX8c7w/realistic-water-drop-with-ecosystem.jpg",
+        "title": "Clean Water Initiative",
+        "category": "Environment",
+        "category_bg": "#00BFFF",
+        "card_bg": "#E0FFFF",
+        "text": "#1E90FF",
+        "description": "Help us build wells and provide clean water to communities.",
+        "price": "$100"
+    },
+    {
+        "picture": "https://i.ibb.co/1QZRvVq/women-preparing-box-with-food-donation.jpg",
+        "title": "Medical Aid for Refugees",
+        "category": "Health",
+        "category_bg": "#FF6347",
+        "card_bg": "#FFE4E1",
+        "text": "#CD5C5C",
+        "description": "Support medical aid efforts for refugees in crisis zones.",
+        "price": "$200"
+    },
+    {
+        "picture": "https://i.ibb.co/xzjFFvz/plant-growing-ground.jpg",
+        "title": "Plant a Tree",
+        "category": "Environment",
+        "category_bg": "#32CD32",
+        "card_bg": "#F0FFF0",
+        "text": "#228B22",
+        "description": "Contribute to reforestation projects and help combat climate change.",
+        "price": "$20"
+    },
+    {
+        "picture": "https://i.ibb.co/PYNn72r/close-up-people-holding-apples-bag.jpg",
+        "title": "Hunger Relief Fund",
+        "category": "Food",
+        "category_bg": "#FFA07A",
+        "card_bg": "#FFF5EE",
+        "text": "#FF4500",
+        "description": "Donate to provide meals to families in need around the world.",
+        "price": "$75"
+    },
+    {
+        "picture": "https://i.ibb.co/4sVsxxM/medium-shot-smiley-woman-hugging-lamb.jpg",
+        "title": "Animal Rescue",
+        "category": "Animal Welfare",
+        "category_bg": "#8A2BE2",
+        "card_bg": "#E6E6FA",
+        "text": "#4B0082",
+        "description": "Help rescue and care for abandoned and mistreated animals.",
+        "price": "$40"
+    },
+    {
+        "picture": "https://i.ibb.co/HNP387M/female-volunteer-holding-clothes-donation-box.jpg",
+        "title": "Disaster Relief Fund",
+        "category": "Emergency",
+        "category_bg": "#FF4500",
+        "card_bg": "#FAEBD7",
+        "text": "#B22222",
+        "description": "Support immediate relief efforts for communities affected by natural disasters.",
+        "price": "$150"
+    },
+    {
+        "picture": "https://i.ibb.co/kHCLhyd/shallow-focus-shot-african-child-learning-school.jpg",
+        "title": "Community Library Project",
+        "category": "Education",
+        "category_bg": "#4682B4",
+        "card_bg": "#F0F8FF",
+        "text": "#1E90FF",
+        "description": "Help build and stock community libraries in underprivileged areas.",
+        "price": "$60"
+    },
+    {
+        "picture": "https://i.ibb.co/1QZRvVq/women-preparing-box-with-food-donation.jpg",
+        "title": "Elderly Care Fund",
+        "category": "Health",
+        "category_bg": "#FFB6C1",
+        "card_bg": "#FFF0F5",
+        "text": "#DB7093",
+        "description": "Provide support and care for the elderly in our communities.",
+        "price": "$80"
+    },
+    {
+        "picture": "https://i.ibb.co/ynsnNDc/group-female-activists-protesting-together.jpg",
+        "title": "Women's Empowerment",
+        "category": "Social",
+        "category_bg": "#FF69B4",
+        "card_bg": "#FFFAFA",
+        "text": "#C71585",
+        "description": "Donate to programs that empower women through education and job training.",
+        "price": "$90"
+    },
+    {
+        "picture": "https://i.ibb.co/ynsnNDc/group-female-activists-protesting-together.jpg",
+        "title": "Veterans Support Fund",
+        "category": "Social",
+        "category_bg": "#4682B4",
+        "card_bg": "#F0F8FF",
+        "text": "#5F9EA0",
+        "description": "Assist veterans with housing, job placement, and mental health services.",
+        "price": "$110"
+    },
+    {
+        "picture": "https://i.ibb.co/xzjFFvz/plant-growing-ground.jpg",
+        "title": "Wildlife Conservation",
+        "category": "Environment",
+        "category_bg": "#66CDAA",
+        "card_bg": "#F5FFFA",
+        "text": "#20B2AA",
+        "description": "Support efforts to protect endangered species and their habitats.",
+        "price": "$130"
+    }
+]

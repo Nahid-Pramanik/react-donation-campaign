@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.default{
+    @apply text-lg
+}
+.active{
+    @apply text-[#FF444A] text-lg font-bold border-b-2 border-[#FF444A]
+}
