@@ -5,7 +5,7 @@ const DisplayDonation = ({ donation }) => {
     const {id, title, picture, category, category_bg, card_bg, text } = donation;
 
     return (
-        <Link to={`details/${id}`} className='mx-2'>
+        <Link to={`/details/${id}`} className='mx-2'>
             <div className={`card`} style={{ backgroundColor: card_bg }}>
                 <figure><img src={picture} alt="donation" /></figure>
                 <div className="card-body">
